@@ -1,10 +1,10 @@
 ##Dependencies
 
-Desktop Effects
+###Desktop Effects
 -> Better Blur
 -> Rounded Corners
 
-Utils
+###Utils
 -> Konsave
 -> Virtual Desktops w/ Window Rules to force certain windows
 -> Kvantum Theme Manager
@@ -12,7 +12,7 @@ Utils
 KWin Scripts
 -> Khronkite WM
 
-*Window Rules*
+###Window Rules
 ->Browsers (Optional for Performance)
     - Window Class === Regular Expression [name|name|name]
     - Match Whole Class === No
@@ -25,13 +25,13 @@ KWin Scripts
     - Ignore Requested Geometry === Apply Initially @ Yes
     - Active & Inactive Opacity === Force @ 90%
     - Focus Stealing Prevention === Force @ None
-Breeze Application Style
+###Breeze Application Style
 -> Window-Specific Override
     - Property === Window Class Name
     - Regular Exp. === .*
     - Decor Option === Hide Window Title Bar
 
-Widgets
+###Widgets
 -> Panel Colorizer
 // Bottom //
 -> Tahoe Launcher
@@ -53,7 +53,7 @@ Widgets
 -> Wunderground
 -> Digital Clock
 
-Keyboard Shortcuts
+###Keyboard Shortcuts
 -> I am using these to control:
     - Khronkite WM Tiling
     - Virtual Desktop Switching
