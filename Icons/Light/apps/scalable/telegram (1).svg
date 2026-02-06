@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Livello_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 128 128"
+   enable-background="new 0 0 240.1 240.1"
+   xml:space="preserve"
+   width="128"
+   height="128"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs13"><linearGradient
+     id="linearGradient879"><stop
+       style="stop-color:#0c4764;stop-opacity:1;"
+       offset="0"
+       id="stop875" /><stop
+       style="stop-color:#60bbe6;stop-opacity:1;"
+       offset="0.41309652"
+       id="stop883" /><stop
+       style="stop-color:#0c4764;stop-opacity:1;"
+       offset="0.80824739"
+       id="stop885" /><stop
+       style="stop-color:#219fd9;stop-opacity:1;"
+       offset="1"
+       id="stop889" /></linearGradient><linearGradient
+     id="Oval_1_"
+     gradientUnits="userSpaceOnUse"
+     x1="-838.04102"
+     y1="660.58099"
+     x2="-838.04102"
+     y2="660.34271"
+     gradientTransform="matrix(499.58372,0,0,-491.25731,418735.59,324518.24)">
+		<stop
+   offset="0"
+   style="stop-color:#2AABEE"
+   id="stop2" />
+		<stop
+   offset="1"
+   style="stop-color:#229ED9"
+   id="stop4" />
+	</linearGradient><linearGradient
+     xlink:href="#linearGradient879"
+     id="linearGradient881"
+     x1="9.9987335"
+     y1="65.998734"
+     x2="118.00127"
+     y2="65.998734"
+     gradientUnits="userSpaceOnUse"
+     gradientTransform="matrix(1.1110851,0,0,1.092567,-7.109443,-6.108035)" /></defs>
+<ellipse
+   id="Oval-7"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="url(#Oval_1_)"
+   cx="64"
+   cy="66"
+   style="fill:url(#linearGradient881);fill-opacity:1;stroke-width:0.495403"
+   rx="60"
+   ry="59" /><ellipse
+   id="Oval"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="url(#Oval_1_)"
+   cx="64"
+   cy="62"
+   style="fill:url(#Oval_1_);stroke-width:0.495403"
+   rx="60.000004"
+   ry="59" /><path
+   id="Path-3"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   fill="#ffffff"
+   d="m 31.127392,61.36137 c 17.485431,-7.467112 29.125732,-12.428811 34.97086,-14.835972 16.636138,-6.828476 20.133225,-8.007494 22.381351,-8.05662 0.499584,0 1.598668,0.09824 2.348044,0.68776 0.5995,0.491258 0.749374,1.129893 0.849292,1.621149 0.09991,0.491257 0.199833,1.522899 0.09991,2.30891 -0.899251,9.333888 -4.796004,31.980851 -6.794339,42.395505 -0.849292,4.421316 -2.497918,5.895089 -4.096586,6.042465 -3.497082,0.294754 -6.144875,-2.259782 -9.492087,-4.421315 -5.295587,-3.389676 -8.24313,-5.502082 -13.388843,-8.842633 -5.945046,-3.831806 -2.098251,-5.944212 1.298917,-9.383013 0.899252,-0.884263 16.236471,-14.639468 16.536222,-15.867612 0.04995,-0.147376 0.04995,-0.736885 -0.299751,-1.03164 -0.349708,-0.294754 -0.849292,-0.196503 -1.248959,-0.09824 -0.549542,0.09824 -8.942549,5.600333 -25.278935,16.45712 -2.398003,1.621148 -4.546213,2.407161 -6.494589,2.358036 -2.14821,-0.04912 -6.244796,-1.179019 -9.342215,-2.161533 -3.746879,-1.179017 -6.74438,-1.817652 -6.494589,-3.880932 0.149877,-1.080766 1.648626,-2.161533 4.446295,-3.291424 z"
+   style="stroke-width:0.495403" />
+</svg>

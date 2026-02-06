@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=macOS Light
+Comment=macOS Light
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Email=lak1987@gmail.com
+X-KDE-PluginInfo-Name=macOS Light
+X-KDE-PluginInfo-Version=14.8
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[AdaptiveTransparency]
+enabled=true
+
+[ContrastEffect]
+enabled=true
+blur=2.0
+contrast=1.6
+intensity=1.6
+saturation=1.6
+
+[BlurBehindEffect]
+enabled=true
+
+
+

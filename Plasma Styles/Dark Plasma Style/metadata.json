@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "int",
+                "Name": "int"
+            }
+        ],
+        "Category": "Plasma 6.0 theme",
+        "Description": "macOS Dark",
+        "EnabledByDefault": true,
+        "Id": "macOS Dark",
+        "License": "GPL-3.0",
+         "Name": "macOS Tahoe",
+        "Version": "6.2.0",
+        "Website": "https://github.com/"
+    },
+    "X-Plasma-API": "5.0"
+}
