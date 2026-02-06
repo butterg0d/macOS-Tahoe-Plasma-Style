@@ -37,9 +37,9 @@
     - Window Types === All
     - Active & Inactive Opacity === force @ 100%
 - Global Opacity
-    - Window Class ===
-    - Match Whole ===
-    - Types ===
+    - Window Class === Unimportant @ systemsettings systemsettings
+    - Match Whole === No
+    - Types === Normal Windows
     - Ignore Requested Geometry === Apply Initially @ Yes
     - Active & Inactive Opacity === Force @ 90%
     - Focus Stealing Prevention === Force @ None
